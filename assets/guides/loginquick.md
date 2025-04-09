@@ -9,3 +9,6 @@
 
 🟢 **4. Did you use the quest browser when signing in?**
 ⚠️ If you did, *__use a different device__*.
+
+🟢 **5. Do you have a password on your Microsoft Account?**
+⚠️ If you do not have a password, *__[set one using this link](https://account.live.com/proofs/manage/) and try again.__*.
